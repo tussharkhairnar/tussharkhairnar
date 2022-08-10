@@ -1,6 +1,6 @@
 ### Hi there  👋, I am Tushar Khairnar
 
-I am a software developer with 5+ years of work experience mostly works on Angular,Typescript,HTML.
+I am a software developer with 5+ years of work experience mostly works on Angular.
 
 I have experience developing web applications with Nodejs, Java technologies and AWS. 
 
