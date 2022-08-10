@@ -1,5 +1,6 @@
 ### Hi there  👋, I am Tushar Khairnar
 I am a software developer with 5+ years of work experience mostly works on Angular,Typescript,HTML.
+
 I’m currently working on Ionic 6. 
 
 <!--
